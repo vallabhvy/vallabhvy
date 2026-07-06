@@ -13,11 +13,10 @@ I'm a software engineer who enjoys building products from the ground up—from d
 
 My interests include:
 
-- Backend Engineering with Java & Spring Boot
+- Backend Engineering with Java, Spring Boot, Javascript/Typescript, Node and Express.
 - Distributed Systems & System Design
 - AI-powered Applications
 - FinTech & Accounting Software
-- Blockchain-backed Security Solutions
 - Developer Tools & Automation
 
 I enjoy understanding **how systems work internally**, not just using frameworks.
