@@ -202,7 +202,7 @@ A multiplayer exploration RPG where every player owns a personal world.
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vallabh-v-yelsangikar-baa316256/)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO_URL)
+- 🌐 [Portfolio]([https://YOUR_PORTFOLIO_URL](https://vallabhvy.github.io/PORTFOLIO/))
 - 📫 [Email](mailto:vallabhvyelsangikar@gmail.com)
 
 I'm always interested in collaborating on impactful projects, open-source contributions, and backend engineering opportunities.
