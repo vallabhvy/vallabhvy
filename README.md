@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vallabh Yelsangikar
 
 🎓 Computer Science graduate from Bengaluru, India
-☕ Backend Engineer specializing in **Java, Javascript/Typescript, Spring Boot, Node.js, Express.js, React.js, PostgreSQL, and REST APIs**
+☕ Fullstack Engineer specializing in **Java, Javascript/Typescript, Spring Boot, Node.js, Express.js, React.js, PostgreSQL, and REST APIs**
 🌐 Full-stack developer with experience building scalable React applications
 🚀 Passionate about solving real-world problems through software, automation, and AI
 
